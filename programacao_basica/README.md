@@ -9,3 +9,5 @@ Além disso, a demanda por profissionais Python para trabalhar com a Internet ut
 Por ser uma linguagem de programação versátil, simples de aprender e muito poderosa, Python possui recursos que, apesar de simples de se utilizar, tornam o aprendizado muito divertido.
 
 Vamos começar pelo básico.
+
+[Começe por aqui](https://colab.research.google.com/drive/1yhEo9lK02oJUBL-exeJfvDlW7vn6Epi7?usp=sharing).
