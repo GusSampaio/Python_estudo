@@ -10,4 +10,5 @@ Por ser uma linguagem de programação versátil, simples de aprender e muito po
 
 Vamos começar pelo básico.
 
-[Começe por aqui](https://colab.research.google.com/drive/1yhEo9lK02oJUBL-exeJfvDlW7vn6Epi7?usp=sharing).
+1. [Operações Matemáticas Básicas](https://colab.research.google.com/drive/1yhEo9lK02oJUBL-exeJfvDlW7vn6Epi7?usp=sharing).
+2. [Tipos de dados e Casting](https://colab.research.google.com/drive/1n-7grrZbofrsb-EvdGywb_XD1kRSUyoO?usp=sharing).
