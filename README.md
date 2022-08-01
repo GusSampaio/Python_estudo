@@ -6,6 +6,8 @@ O conteúdo irá desde o mais básico da linguagem como seus primeiros inputs at
 
 Todas as pessoas que o vizualizarem estão convidadas a, se quiserem, contribuir no estudo. 
 
+Para facilitar seu estudo, o conteúdo e os código estarão presentes no Google Colab. É um ambiente muito amigável e logo ao abrir pela primeira vez ele te dá as boas-vindas com um pequeno tutorial de utilização.
+
 ### Conteúdo
 
 - [Programação básica](/programacao_basica)
