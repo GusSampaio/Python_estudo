@@ -11,3 +11,4 @@ Para facilitar seu estudo, o conteúdo e os códigos estarão presentes no [Goog
 ### Conteúdo
 
 - [Programação básica](/programacao_basica)
+- [Estrutura de Dados](/estrutura_de_dados)
