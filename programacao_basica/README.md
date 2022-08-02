@@ -15,3 +15,5 @@ Vamos começar pelo básico.
 3. [Operações Condicionais](https://colab.research.google.com/drive/12k_5bb87vPFPXoioYtr-EDS6yv1zpGzh?usp=sharing).
 4. [Loops (Laços) de Repetição](https://colab.research.google.com/drive/1SIirjRPJdqpShi6LWjgUPKqkpuKWSUAH?usp=sharing).
 5. [Funções](https://colab.research.google.com/drive/11jUwQYiKfHC_vfZyjsWFETBtmDPcQ8Dw?usp=sharing).
+
+Lembre-se, pular etapas no aprendizado muito provavelmente será prejudicial e criará lacunas no seu estudo.
