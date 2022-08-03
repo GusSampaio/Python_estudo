@@ -5,7 +5,6 @@ Estrutura de dados é o ramo da computação que estuda os diversos mecanismos d
 Existem diversas estruturas de dados utilizadas na programação, as quatro principais são: Listas e suas variações (filas, pilhas, deques, listas circulares…), Árvores e suas variações (binárias, binárias de busca, não binárias…), Grafos, Tabelas Hash, que são largamente utilizadas na implementação de aplicações.
 
 - Listas: 
-  - Listas de caracteres (strings);
   - Processos executados em um sistema operacional (fila); 
   - chamadas de funções num interpretador de código (pilha);
   - cartas em um jogo de baralho (variação de deque).
