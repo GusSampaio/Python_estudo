@@ -16,5 +16,6 @@ Vamos começar pelo básico.
 4. [Loops (Laços) de Repetição](https://colab.research.google.com/drive/1SIirjRPJdqpShi6LWjgUPKqkpuKWSUAH?usp=sharing).
 5. [Funções](https://colab.research.google.com/drive/11jUwQYiKfHC_vfZyjsWFETBtmDPcQ8Dw?usp=sharing).
 6. [Expressões Lambda](https://colab.research.google.com/drive/1Z7mUjrVGKTILBAW-ozzxxsa4BYt37SZ1?usp=sharing).
+7. [Strings](https://colab.research.google.com/drive/1dmkvqiIkEDe6CESIWw54DLxmZi5hcU82?usp=sharing).
 
 Lembre-se, pular etapas no aprendizado muito provavelmente será prejudicial e criará lacunas no seu estudo.
