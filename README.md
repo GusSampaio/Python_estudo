@@ -11,4 +11,5 @@ Para facilitar seu estudo, o conteúdo e os códigos estarão presentes no [Goog
 ### Conteúdo
 
 - [Programação básica](/programacao_basica)
+- [Programação Orientada a Objetos (POO)](/programcao_orientada_a_objetos)
 - [Estrutura de Dados](/estrutura_de_dados)
