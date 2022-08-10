@@ -8,7 +8,7 @@ Existem diversas estruturas de dados utilizadas na programação, as quatro prin
   - Processos executados em um sistema operacional (fila); 
   - chamadas de funções num interpretador de código (pilha);
   - cartas em um jogo de baralho (variação de deque).
-- Árvores: 
+- [Árvores](https://colab.research.google.com/drive/1dh0uHmb2wgFtl1_gnPIc5HIbAs70xrAa?usp=sharing): 
   - Aplicativos de pesquisa com entrada constante de dados (Árvores binárias); 
   - algoritmos de compactação de dados.
 - Grafos: 
