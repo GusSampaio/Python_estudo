@@ -23,6 +23,8 @@ Esses conceitos são os pilares da Programação Orientada a Objetos então é m
 - Métodos são funções definidas dentro de uma classe que descrevem os comportamentos de um objeto. Em Python, o primeiro parâmetro dos métodos é sempre uma referência ao próprio objeto.
 Os Atributos são definidos na Classe e representam o estado de um objeto. Os objetos terão dados armazenados nos campos de atributos. Também existe o conceito de atributos de classe, mas veremos isso mais pra frente.
 
+### Aprenda sobre estes conceitos em Python [AQUI](https://colab.research.google.com/drive/1z11uMQqkcnsAJjw-ifoUIH5u-6IlrtDX?usp=sharing).
+
 <h2> Princípios Básicos de POO </h2>
 A programação orientada a objetos é baseada nos seguintes princípios:
 
