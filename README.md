@@ -8,7 +8,7 @@ Todas as pessoas que o vizualizarem estão convidadas a, se quiserem, contribuir
 
 Para facilitar seu estudo, o conteúdo e os códigos estarão presentes no [Google Colab](https://colab.research.google.com/?utm_source=scs-index). É um ambiente muito amigável e logo ao abrir pela primeira vez ele te dá as boas-vindas com um pequeno tutorial de utilização.
 
-Além disso, também disponibilizo uma cópia dos códigos que estão no Google Colab em arquivos tipo '*.ipyb*' (Jupyter Notebook) que podem ser baixados e rodados na sua máquina local.
+Além disso, também disponibilizo uma cópia dos códigos que estão no Google Colab em arquivos tipo '*.ipynb*' (Jupyter Notebook) que podem ser baixados e rodados na sua máquina local.
 Uma introdução sobre este tipo de arquivo pode ser encontrada [AQUI](https://letscode.com.br/blog/introducao-ao-jupyter-notebook).
 
 ### Conteúdo
