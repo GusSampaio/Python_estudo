@@ -11,7 +11,7 @@ Para facilitar seu aprendizado, o conteúdo e os códigos estarão presentes no 
 Além disso, também disponibilizo uma cópia dos códigos que estão no Google Colab em arquivos tipo '*.ipynb*' (Jupyter Notebook) em cada pasta que podem ser baixados e rodados na sua máquina local.
 Uma introdução sobre este tipo de arquivo pode ser encontrada [AQUI](https://letscode.com.br/blog/introducao-ao-jupyter-notebook).
 
-### Conteúdo
+### Conteúdo Base
 
 - [Programação básica](/programacao_basica)
 - [Programação Orientada a Objetos (POO)](/orientacao_a_objetos)
