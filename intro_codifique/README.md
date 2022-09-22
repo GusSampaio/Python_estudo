@@ -21,6 +21,3 @@ Para isso existem as <strong>"linguagens de programação"</strong>. C, Java, Ja
 <br> Nosso curso introdutório será focado na Linguagem Python usando uma biblioteca chamada Turtle (Mais tarde explico o que é uma biblioteca)<br>
 
 <br> Entendeu o que está aqui? Já tirou suas dúvidas? Sacou o esquema? ENTÃO SIMBORA MEU POVO.
-
-- [Programação Básica em Python](../programacao_basica)
-
