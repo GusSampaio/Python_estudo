@@ -20,3 +20,6 @@ Uma introdução sobre este tipo de arquivo pode ser encontrada [AQUI](https://l
 ### Matemática
 - [Álgebra Linear](/algebra_linear)
 - [Estatística](/estatistica)
+
+### Codifique 
+- [Introdução a Lógica de Programação](/intro_codifique)
