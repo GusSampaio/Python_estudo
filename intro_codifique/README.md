@@ -2,7 +2,7 @@
 Antes de começarmos a hackearmos a NASA e criarmos nosso próprio Instagram, precisamos entender como um código funciona, afinal, nada do que citei anteriormente vai ser possível se não pudermos pensar na lógica do código.
 - Lógica de programação nada mais é do que "encadear pensamentos para atingir um determinado objetivo"
 
-Beleza, mas o não tem um significado mais simples que isso não?<br>
+Beleza, mas não existe algum significado mais simples que isso não?<br>
 (Spoiler: Sempre tem)
 
 Podemos definir também a lógica de programação como uma sequência prédifinida de passos a serem seuidos a fim de que cheguemos a um resultado.<br>
