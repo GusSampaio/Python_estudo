@@ -5,7 +5,7 @@ Antes de começarmos a hackearmos a NASA e criarmos nosso próprio Instagram, pr
 Beleza, mas não existe algum significado mais simples que isso não?<br>
 (Spoiler: Sempre tem)
 
-Podemos definir também a lógica de programação como uma sequência prédifinida de passos a serem seuidos a fim de que cheguemos a um resultado.<br>
+Podemos definir também a lógica de programação como uma sequência pré - definida de passos a serem seuidos a fim de que cheguemos a um resultado.<br>
 
 Agora vai um clássico... <br>
 Imagine uma receita de bolo. O que costuma ir nela?<br>
